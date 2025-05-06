@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HopMap - Your Night Out Starts Here</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>HopMap</h1>
+    <p>Your local guide to bar hopping and drink deals</p>
+  </header>
+
+  <section class="featured">
+    <h2>Tonight’s Top Bar Hop</h2>
+    <ul>
+      <li><strong>8:00 PM:</strong> The Tipsy Taproom (2-for-1 IPAs)</li>
+      <li><strong>9:30 PM:</strong> Velvet Lounge (Free shots with check-in)</li>
+      <li><strong>11:00 PM:</strong> Midnight Alley (Live DJ & $5 cocktails)</li>
+    </ul>
+  </section>
+
+  <section class="email">
+    <h2>Get Weekend Routes in Your Inbox</h2>
+    <form>
+      <input type="email" placeholder="Enter your email">
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 HopMap. Drink responsibly.</p>
+  </footer>
+</body>
+</html>
